@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MOB>
+    <PASSIVE>
+        <PICTURE><![CDATA[<img src=images/batface.png width=32 height=32>]]></PICTURE>
+        <NAME>Bat</NAME>
+        <HEARTS>3</HEARTS>
+        <DROPS>None</DROPS>
+        <SFX><![CDATA[<audio src="sounds/bat.wav" preload="auto" controls></audio>]]></SFX>
+    </PASSIVE>
+    <PASSIVE>
+        <PICTURE><![CDATA[<img src=images/chickenface.png width=32 height=32>]]></PICTURE>
+        <NAME>Chicken</NAME>
+        <HEARTS>2</HEARTS>
+        <DROPS>Raw Chicken, Feathers</DROPS>
+        <SFX><![CDATA[<audio src="sounds/chicken.mp3" preload="auto" controls></audio>]]></SFX>
+    </PASSIVE>
+    <PASSIVE>
+        <PICTURE><![CDATA[<img src=images/cowface.png width=32 height=32>]]></PICTURE>
+        <NAME>Cow</NAME>
+        <HEARTS>5</HEARTS>
+        <DROPS>Leather, Raw Beef</DROPS>
+        <SFX><![CDATA[<audio src="sounds/cow.mp3" preload="auto" controls></audio>]]></SFX>
+    </PASSIVE>
+    <PASSIVE>
+        <PICTURE><![CDATA[<img src=images/mooshroomface.png width=32 height=32>]]></PICTURE>
+        <NAME>Mooshroom</NAME>
+        <HEARTS>5</HEARTS>
+        <DROPS>Leather, Raw Beef</DROPS>
+        <SFX><![CDATA[<audio src="sounds/mooshroom.mp3" preload="auto" controls></audio>]]></SFX>
+    </PASSIVE>
+    <PASSIVE>
+        <PICTURE><![CDATA[<img src=images/pigface.png width=32 height=32>]]></PICTURE>
+        <NAME>Pig</NAME>
+        <HEARTS>5</HEARTS>
+        <DROPS>Raw Porkchop</DROPS>
+        <SFX><![CDATA[<audio src="sounds/pig.mp3" preload="auto" controls></audio>]]></SFX>
+    </PASSIVE>
+    <PASSIVE>
+        <PICTURE><![CDATA[<img src=images/rabbitface.png width=32 height=32>]]></PICTURE>
+        <NAME>Rabbit</NAME>
+        <HEARTS>5</HEARTS>
+        <DROPS>Rabbit Hide, Raw Rabbit</DROPS>
+        <SFX><![CDATA[<audio src="sounds/rabbit.wav" preload="auto" controls></audio>]]></SFX>
+    </PASSIVE>
+    <PASSIVE>
+        <PICTURE><![CDATA[<img src=images/sheepface.png width=32 height=32>]]></PICTURE>
+        <NAME>Sheep</NAME>
+        <HEARTS>4</HEARTS>
+        <DROPS>Raw Mutton, Wool</DROPS>
+        <SFX><![CDATA[<audio src="sounds/sheep.mp3" preload="auto" controls></audio>]]></SFX>
+    </PASSIVE>
+    <PASSIVE>
+        <PICTURE><![CDATA[<img src=images/villagerface.png width=32 height=32>]]></PICTURE>
+        <NAME>Villager</NAME>
+        <HEARTS>10</HEARTS>
+        <DROPS>None</DROPS>
+        <SFX><![CDATA[<audio src="sounds/villager.ogg" preload="auto" controls></audio>]]></SFX>
+    </PASSIVE>
+    <PASSIVE>
+        <PICTURE><![CDATA[<img src=images/irongolemface.png width=32 height=32>]]></PICTURE>
+        <NAME>Iron Golem</NAME>
+        <HEARTS>50</HEARTS>
+        <DROPS>Iron Ingot, Poppy</DROPS>
+        <SFX><![CDATA[<audio src="sounds/irongolem.ogg" preload="auto" controls></audio>]]></SFX>
+    </PASSIVE>
+  
+        
+    
+    <HOSTILE>
+        <PICTURE><![CDATA[<img src=images/blazeface.png width=32 height=32>]]></PICTURE>
+        <NAME>Blaze</NAME>
+        <HEARTS>10</HEARTS>
+        <DROPS>Blaze Rod</DROPS>
+        <SFX><![CDATA[<audio src="sounds/blaze.wav" preload="auto" controls></audio>]]></SFX>
+    </HOSTILE>
+    <HOSTILE>
+        <PICTURE><![CDATA[<img src=images/creeperface.png width=32 height=32>]]></PICTURE>
+        <NAME>Creeper</NAME>
+        <HEARTS>10</HEARTS>
+        <DROPS>Gunpowder</DROPS>
+        <SFX><![CDATA[<audio src="sounds/creeper.mp3" preload="auto" controls></audio>]]></SFX>
+    </HOSTILE>
+    <HOSTILE>
+        <PICTURE><![CDATA[<img src=images/endermanface.png width=32 height=32>]]></PICTURE>
+        <NAME>Enderman</NAME>
+        <HEARTS>20</HEARTS>
+        <DROPS>Ender Pearl</DROPS>
+        <SFX><![CDATA[<audio src="sounds/enderman.wav" preload="auto" controls></audio>]]></SFX>    
+    </HOSTILE>
+    <HOSTILE>
+        <PICTURE><![CDATA[<img src=images/ghastface.png width=32 height=32>]]></PICTURE>
+        <NAME>Ghast</NAME>
+        <HEARTS>5</HEARTS>
+        <DROPS>Raw Porkchop</DROPS>
+        <SFX><![CDATA[<audio src="sounds/ghast.mp3" preload="auto" controls></audio>]]></SFX>
+    </HOSTILE>
+    <HOSTILE>
+        <PICTURE><![CDATA[<img src=images/guardianface.png width=32 height=32>]]></PICTURE>
+        <NAME>Guardian</NAME>
+        <HEARTS>15</HEARTS>
+        <DROPS>Prismarine Crystal, Prismarine Shard</DROPS>
+        <SFX><![CDATA[<audio src="sounds/guardian.wav" preload="auto" controls></audio>]]></SFX>
+    </HOSTILE>
+    <HOSTILE>
+        <PICTURE><![CDATA[<img src=images/magmaface.png width=32 height=32>]]></PICTURE>
+        <NAME>Magma Cube</NAME>
+        <HEARTS>8</HEARTS>
+        <DROPS>Magma Cream</DROPS>
+        <SFX><![CDATA[<audio src="sounds/magma.wav" preload="auto" controls></audio>]]></SFX>
+    </HOSTILE>
+    <HOSTILE>
+        <PICTURE><![CDATA[<img src=images/skeletonface.png width=32 height=32>]]></PICTURE>
+        <NAME>Skeleton</NAME>
+        <HEARTS>10</HEARTS>
+        <DROPS>Bone, Arrows</DROPS>
+        <SFX><![CDATA[<audio src="sounds/skeleton.mp3" preload="auto" controls></audio>]]></SFX>
+    </HOSTILE>
+    <HOSTILE>
+        <PICTURE><![CDATA[<img src=images/slimeface.png width=32 height=32>]]></PICTURE>
+        <NAME>Slime</NAME>
+        <HEARTS>8</HEARTS>
+        <DROPS>Slimeball</DROPS>
+        <SFX><![CDATA[<audio src="sounds/slime.mp3" preload="auto" controls></audio>]]></SFX>
+    </HOSTILE>
+    <HOSTILE>
+        <PICTURE><![CDATA[<img src=images/spiderface.png width=32 height=32>]]></PICTURE>
+        <NAME>Spider</NAME>
+        <HEARTS>8</HEARTS>
+        <DROPS>String</DROPS>
+        <SFX><![CDATA[<audio src="sounds/spider.mp3" preload="auto" controls></audio>]]></SFX>
+    </HOSTILE>
+    <HOSTILE>
+        <PICTURE><![CDATA[<img src=images/witherskelface.png width=32 height=32>]]></PICTURE>
+        <NAME>Wither Skeleton</NAME>
+        <HEARTS>10</HEARTS>
+        <DROPS>Coal, Bone</DROPS>
+        <SFX><![CDATA[<audio src="sounds/skeleton.mp3" preload="auto" controls></audio>]]></SFX>
+    </HOSTILE>
+    <HOSTILE>
+        <PICTURE><![CDATA[<img src=images/zombieface.png width=32 height=32>]]></PICTURE>
+        <NAME>Zombie</NAME>
+        <HEARTS>10</HEARTS>
+        <DROPS>Rotten Flesh</DROPS>
+        <SFX><![CDATA[<audio src="sounds/zombie.mp3" preload="auto" controls></audio>]]></SFX>
+    </HOSTILE>
+    
+    
+    
+    <TAMABLE>
+        <PICTURE><![CDATA[<img src=images/donkeyface.png width=32 height=32>]]></PICTURE>
+        <NAME>Donkey</NAME>
+        <HEARTS>7.5 - 15</HEARTS>
+        <DROPS>Leather</DROPS>
+        <SFX><![CDATA[<audio src="sounds/donkey.wav" preload="auto" controls></audio>]]></SFX>
+    </TAMABLE>
+    <TAMABLE>
+        <PICTURE><![CDATA[<img src=images/horseface.png width=32 height=32>]]></PICTURE>
+        <NAME>Horse</NAME>
+        <HEARTS>7.5 - 15</HEARTS>
+        <DROPS>Leather</DROPS>
+        <SFX><![CDATA[<audio src="sounds/horse.ogg" preload="auto" controls></audio>]]></SFX>
+    </TAMABLE>
+    <TAMABLE>
+        <PICTURE><![CDATA[<img src=images/ocelotface.png width=32 height=32>]]></PICTURE>
+        <NAME>Ocelot</NAME>
+        <HEARTS>5</HEARTS>
+        <DROPS>None</DROPS>
+        <SFX><![CDATA[<audio src="sounds/ocelot.ogg" preload="auto" controls></audio>]]></SFX>
+    </TAMABLE>
+    <TAMABLE>
+        <PICTURE><![CDATA[<img src=images/wolfface.png width=32 height=32>]]></PICTURE>
+        <NAME>Wolf</NAME>
+        <HEARTS>4 - 10</HEARTS>
+        <DROPS>None</DROPS>
+        <SFX><![CDATA[<audio src="sounds/wolf.mp3" preload="auto" controls></audio>]]></SFX>
+    </TAMABLE>
+    
+    <BOSS>
+        <PICTURE><![CDATA[<img src=images/enderdface.png width=32 height=32>]]></PICTURE>
+        <NAME>Ender Dragon</NAME>
+        <HEARTS>100</HEARTS>
+        <DROPS>Dragon Egg</DROPS>
+        <SFX><![CDATA[<audio src="sounds/enderdragon.wav" preload="auto" controls></audio>]]></SFX>
+    </BOSS>
+    <BOSS>
+        <PICTURE><![CDATA[<img src=images/witherface.png width=32 height=32>]]></PICTURE>
+        <NAME>Wither</NAME>
+        <HEARTS>150</HEARTS>
+        <DROPS>Nether Star</DROPS>
+        <SFX><![CDATA[<audio src="sounds/wither.wav" preload="auto" controls></audio>]]></SFX>
+    </BOSS>
+</MOB>
